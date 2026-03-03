@@ -1,6 +1,6 @@
 # The Golden Trilogy
 
-Three visual interpretations of the **same 2025 gold dataset**, built with Python and Plotly](https://plotly.com/).
+Three visual interpretations of the **same 2025 gold dataset**, built with Python and [Plotly](https://plotly.com/).
 
 This code-base demonstrates how far a single dataset can stretch—from classic financial views to more expressive, high-density visual storytelling—using only core Plotly primitives.
 
