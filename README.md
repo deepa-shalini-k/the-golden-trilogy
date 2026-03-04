@@ -7,13 +7,13 @@ This code-base demonstrates how far a single dataset can stretch—from classic 
 ## What’s Here
 
 - The Gold Standard: Candlestick (analytical baseline)
-  <img width="1554" height="600" alt="gold_standard" src="https://github.com/user-attachments/assets/6d660941-a255-4e52-a0fb-132441ce74ae" />
+  <img width="1704" height="625" alt="gold_standard_with_tooltip" src="https://github.com/user-attachments/assets/6f684085-e86d-4011-bf7d-bf5fe428c936" />
 
 - The Gold Rosette: Radial calendar (exploratory/storytelling)
-  <img width="800" height="800" alt="gold_rosette" src="https://github.com/user-attachments/assets/5197eba7-e3e3-4fff-9acd-5f4681ae936f" />
+  <img width="872" height="843" alt="gold_rosette_with_tooltip" src="https://github.com/user-attachments/assets/9519ab83-4df5-4ca3-af4a-f281fce1174f" />
 
 - The God Rush: Stellar scatter (narrative/artistic)
-  <img width="1600" height="900" alt="gold_rush" src="https://github.com/user-attachments/assets/7488f614-04b2-4281-8d5f-696ef4537bc9" />
+  <img width="1719" height="986" alt="gold_rush_with_tooltip" src="https://github.com/user-attachments/assets/1387cea1-c31e-4a01-a918-fe5a592e80e3" />
 
 All examples are fully reproducible.
 
